@@ -1,2 +1,2 @@
-# PrepCourse-Henry
-repo de prueba m2 Henry
+Luciano Paltrinieri
+Este proyecto es una prueba de como crear un repositorio y clonarlo desde Github a mi escritorio local.
